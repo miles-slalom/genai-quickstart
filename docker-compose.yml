@@ -1,0 +1,7 @@
+services:
+  fuzzy-broccoli:
+    build: .
+    environment:
+      - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY}
+      - AZURE_OPENAI_ENDPOINT=${AZURE_OPENAI_ENDPOINT}
+    command: ["poetry", "run", "python", "fuzzy_broccoli/azure_openai_client.py"]

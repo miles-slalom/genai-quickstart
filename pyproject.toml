@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "fuzzy-broccoli"
+version = "0.1.0"
+description = "A client for interacting with Azure OpenAI."
+authors = ["Miles Erickson <miles.erickson@slalom.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+openai = "^1.39.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
