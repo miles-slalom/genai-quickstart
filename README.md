@@ -6,7 +6,7 @@ A client for interacting with Azure OpenAI.
 
 - Python 3.13
 - Poetry
-- [optional] A container engine like Docker or Podman
+- [optional] A container engine like Docker, Podman, or Colima
 
 ## Environment Variables
 
