@@ -12,10 +12,10 @@ A client for interacting with Azure OpenAI.
 
 Set the required environment variables, e.g. in your `~/.zshrc` file:
 
-    ```sh
-    export AZURE_OPENAI_API_KEY=...
-    export AZURE_OPENAI_ENDPOINT=...
-    ```
+```sh
+export AZURE_OPENAI_API_KEY=...
+export AZURE_OPENAI_ENDPOINT=...
+```
 
 
 ## Local Usage Instructions
