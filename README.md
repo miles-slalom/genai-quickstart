@@ -22,14 +22,19 @@ export AZURE_OPENAI_ENDPOINT=...
 
 1. Install Python 3.13 from [python.org](https://www.python.org/downloads/release/python-3130/).
 
-2. Clone the repository:
+2. Install Poetry
+    ```sh
+    python3 -m pip install poetry
+    ```
+
+4. Clone the repository:
 
     ```sh
     git clone https://github.com/miles-slalom/fuzzy-broccoli.git
     cd fuzzy-broccoli
     ```
 
-3. Install dependencies using Poetry:
+5. Install dependencies using Poetry:
 
     ```sh
     poetry install
