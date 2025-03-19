@@ -5,7 +5,6 @@ A client for interacting with Azure OpenAI.
 ## Requirements
 
 - Python 3.13
-- Poetry
 - [optional] A container engine like Docker, Podman, or Colima
 
 ## Environment Variables
@@ -22,7 +21,7 @@ export AZURE_OPENAI_ENDPOINT=...
 
 1. Install Python 3.13 from [python.org](https://www.python.org/downloads/release/python-3130/).
 
-2. Install Poetry
+2. Install Poetry (a virtual environment and package manager for Python)
     ```sh
     python3 -m pip install poetry
     ```
