@@ -29,8 +29,8 @@ export AZURE_OPENAI_ENDPOINT=...
 4. Clone the repository:
 
     ```sh
-    git clone https://github.com/miles-slalom/fuzzy-broccoli.git
-    cd fuzzy-broccoli
+    git clone https://github.com/miles-slalom/genai-quickstart.git
+    cd genai_quickstart
     ```
 
 5. Install dependencies using Poetry:
