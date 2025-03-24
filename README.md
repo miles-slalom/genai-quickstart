@@ -1,4 +1,4 @@
-# Fuzzy Broccoli
+# GenAI Quickstart
 
 A client for interacting with Azure OpenAI.
 
