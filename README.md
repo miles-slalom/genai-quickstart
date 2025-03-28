@@ -43,7 +43,7 @@ export AZURE_OPENAI_ENDPOINT=...
 2. Run the application:
 
     ```sh
-    poetry run python fuzzy_broccoli/azure_openai_client.py
+    poetry run python genai_quickstart/azure_openai_client.py
     ```
 
 ## Docker Usage Instructions
